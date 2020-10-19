@@ -1,0 +1,25 @@
+The Challenge.
+    *This challenge was found on the Codewars website : https://www.codewars.com/kata/51f2d1cafc9c0f745c00037d
+    
+    *The challenge required a function that could take a string as it's first argument and check if it ends with the second argument in the function. 
+
+
+JavaScript Solution Reflection.
+    *Before approaching this challenge I was not aware of the endsWith() method available in JavaScript.
+    
+    *I discovered the method on the w3schools website :  https://www.w3schools.com/jsref/jsref_endswith.asp
+    
+    *My first solution was too verbose as it did not utilise the method fully. The endsWith method returns a boolean value by default, hence I did not need to specificy what value to return based on the outcome of the if statement.
+
+    *My second solution, which was commonly used by many to complete this challenge, simply checks if the string ends with the value given and returns the boolean value. 
+
+    *In retrospect the second solution was more suitable for this challenge as it achieved it with less code. However, my initial solution could also be useful if I wanted the application to do something based on if the ending matches the string. 
+
+Python Solution Reflection.
+    *I was not aware of the endswith() method in Python prior to this challeng.
+
+    *I discovered this method on the w3schools website : https://www.w3schools.com/python/ref_string_endswith.asp
+
+    *As I completed the challenge using JavaScript first I already had a better idea of how to complete the challenge with as little code as possible. 
+
+    *Again I made use of the default boolean value that the method returns by simply creating a function that returns a boolean value based on the outcome.
