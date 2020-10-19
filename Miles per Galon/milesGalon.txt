@@ -1,0 +1,18 @@
+The Challenge. 
+    *This challenge was found on the Codewars website: https://www.codewars.com/kata/5861d28f124b35723e00005e/javascript
+
+    *This challenge requires a function that can calculate if a car can travel a certain distance based on it's miles per galon and the amount of fuel remaining. It should return a boolean value. 
+
+JavaScript Solution Reflection. 
+    *Prior to this challenge I had not used the arrow function syntax. The arrow function allows you to create shorter functions. 
+
+    *I did further reading on this syntax using the w3schools website: https://www.w3schools.com/js/js_arrow_function.asp
+
+    *My JavaScript solution returns a boolean value, true if the amount of fuel is greater than or equal to the distance to the pump, else it's false. 
+
+Python Solution Reflection.
+    *As I completed this challenge using JavaScript first, completing it using Python for straight forward. 
+
+    *I created a function that returns a boolean value based on the outcome of the statement (distance/mpg <= fuel). 
+
+    *Python was also easier to use as the function syntax remained the same, hence I did not have to study documentation prior to attempting a solution. 
